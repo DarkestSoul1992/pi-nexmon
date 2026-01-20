@@ -1,4 +1,4 @@
-Installs nexmon on Raspberry Pi 3 Model B
+Installs nexmon on Raspberry Pi 3 Model B or Raspberry Pi Zero W
 
 to run installer:   
 `bash pimon.sh`
